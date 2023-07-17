@@ -105,10 +105,24 @@
         
         text-align: justify;
         
-        color: rgb(21, 209, 209);
+        color: rgb(255, 255, 255);
         
-        font-size: 50px;
+        font-size: 40px;
         
         
         
         }
+        .fondosociales2{
+            background-image: url("fondo2.jpeg");
+            background-size: cover;
+            background-repeat: no-repeat;
+
+        }
+        .fondomatematicas2{
+            background-image: url("fondo2.jpeg");                            
+            background-size: cover;
+            background-repeat: no-repeat;
+
+        }
+        
+        
